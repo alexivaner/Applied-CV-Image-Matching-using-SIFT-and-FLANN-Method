@@ -27,15 +27,15 @@ The result will be shown in the /result folder separated as:
 4) Image Matching Result
 
 ## Reference
-SIFT is originally created by David G. Lowe
+SIFT is originally created by David G. Lowe <br>
   [Distinctive Image Feature from Scale-Invariant Keypoints](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)<br>
 
 
-This code is combined and modified from this source:
+This code is combined and modified from this source:<br>
  [rmIslam PythonSIFT](https://github.com/rmislam/PythonSIFT)<br>
  Thank you for your clear code about how to find extrema keypoint.
 
-Good Paper about step by step implementing SIFT:
+Good Paper about step by step implementing SIFT:<br>
   [Anatomy of the SIFT Method](https://www.ipol.im/pub/art/2014/82/article.pdf)<br>
  
  
