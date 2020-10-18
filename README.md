@@ -1,8 +1,9 @@
 # Image Matching using SIFT
  Image Matching using SIFT and FLANN Method
-How to run this program:
 
-From command prompt:
+## How to run this program:
+
+### From command prompt:
 You need to specify the input using set_name of inside /img folder,
 then it will automatically save all the pyramid image, dog images, keypoint, and image matching inside /result:
 
