@@ -42,6 +42,18 @@ Good Paper about step by step implementing SIFT:<br>
 [Click this link](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/Report_Ivan%20Surya%20H_0860812.pdf)
 
 ## Result
+### Image Pyramid
+![Gaussian Pyramid](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/gaussian_image.png)
+
+
+
+### Image DoG
+![DoG Images](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/dog_image.png)
+
+### Image KeyPoint
+![Image Keypoints](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/image_keypoints.png)
+
+
 ### Image Matching
 ![bamboo_set](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/4_image_matching/bamboo_fox/image-matching.jpg)
 ![Mountain](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/4_image_matching/mountain/image-matching.jpg)
