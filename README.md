@@ -38,7 +38,15 @@ This code is combined and modified from this source:<br>
 Good Paper about step by step implementing SIFT:<br>
   [Anatomy of the SIFT Method](https://www.ipol.im/pub/art/2014/82/article.pdf)<br>
  
-## Result and Explanation
-![Model View Controller](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/Report_Ivan%20Surya%20H_0860812.pdf)
+## Result
+### Image Matching
+![bamboo_set](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/4_image_matching/bamboo_fox/image-matching.jpg)
+![Mountain](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/4_image_matching/mountain/image-matching.jpg)
+![Tree](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/4_image_matching/tree/image-matching.jpg)
+![own_image](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/result/4_image_matching/own_image/image-matching.jpg)
+
+ 
+## Explanation Report
+[Click this link](https://github.com/alexivaner/Image-Matching-using-SIFT-and-FLANN-Method/blob/main/Report_Ivan%20Surya%20H_0860812.pdf)
 
 
