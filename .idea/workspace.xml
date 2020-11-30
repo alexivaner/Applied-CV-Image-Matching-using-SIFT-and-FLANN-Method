@@ -33,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="162eef9e-671d-425b-8366-df43266a2f64" />
   <component name="ProjectId" id="1iwt5QSdTb98OUKmcm6KEjLKcwO" />
@@ -45,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonSIFT-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../../Project Lab/Elevator/IP Camera" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -118,6 +118,7 @@
       <workItem from="1602898096649" duration="3973000" />
       <workItem from="1602917122270" duration="94000" />
       <workItem from="1602922037966" duration="7934000" />
+      <workItem from="1604229481880" duration="54000" />
     </task>
     <servers />
   </component>
@@ -141,10 +142,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602898017773" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1602898225556">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1604229536405">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602898225556" />
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604229536405" />
     <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1602842358835">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
